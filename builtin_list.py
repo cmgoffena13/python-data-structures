@@ -9,3 +9,11 @@ my_list.insert(0, 0) # Insert 0 at index 0
 my_list.extend([7, 8]) # Extend the list with [7, 8]
 
 print(my_list)
+
+# Perfect for "for each" loops
+for item in my_list:
+    print(item)
+
+# List Comprehension (faster than a for loop)
+doubled_list = [item * 2 for item in my_list]
+print(doubled_list)
