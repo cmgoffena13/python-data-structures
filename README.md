@@ -2,6 +2,24 @@
 
 This project was created to provide detailed information and recommendations on the usage of the data structures initially available in Python. Mainly for my own learning purposes.
 
+## 📚 Table of Contents
+
+1. [Hashable Python Types](#hashable-python-types)
+2. [O Notation](#o-notation)
+3. [Builtin Data Structures](#builtin-data-structures)
+   - [List](#list)
+   - [Tuple](#tuple)
+   - [Dictionary](#dictionary)
+   - [Set](#set)
+   - [Frozen Set](#frozen-set)
+4. [Array Data Structure](#array-data-structure)
+   - [Array](#array)
+5. [Collections Data Structures](#collections-data-structures)
+6. [HeapQ Data Structures](#heapq-data-structures)
+7. [Queue Data Structures](#queue-data-structures)
+
+---
+
 ## Hashable Python Types
 
 A **hashable** type is one that has a hash value that never changes during its lifetime and can be compared to other objects. Hashable objects can be used as dictionary keys and set elements.
