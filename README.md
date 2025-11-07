@@ -1,6 +1,6 @@
 # Python Data Structures
 
-This project was created to provide detailed information and recommendations on the usage of the data structures initially available in Python.
+This project was created to provide detailed information and recommendations on the usage of the data structures initially available in Python. Mainly for my own learning purposes.
 
 ## Hashable Python Types
 
